@@ -1,3 +1,30 @@
-baseURL: https://example.org/
+baseURL: https://emmalinerice.com/
 languageCode: en-us
-title: My New Hugo Site
+title: Emmaline Rice
+theme: PaperMod
+
+params:
+  homeInfoParams:
+    Title: "Emmaline Rice"
+    subtitle: "Technical Writer & Proposal Manager"
+    Content: I'm a technical writer with five years of experience. I have written documentation for network engineering, B2B SaaS products, and development security operations. I'm a big proponent of accessible documentation and scientific communication.
+  socialIcons:
+    - name: github
+      url: "https://github.com/emmrice"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/emmaline-rice/"
+
+menu:
+  main:
+    - identifier: samples
+      name: Writing Samples
+      url: /samples/
+      weight: 10
+    - identifier: resume
+      name: Résumé
+      url: /resume/
+      weight: 30
+    - identifier: illustration
+      name: Scientific Illustration 
+      url: /illustration/
+      weight: 20

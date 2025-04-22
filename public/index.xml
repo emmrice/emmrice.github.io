@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Emmaline Rice</title>
+    <link>https://emmalinerice.com/</link>
+    <description>Recent content on Emmaline Rice</description>
+    <generator>Hugo -- 0.146.6</generator>
+    <language>en-us</language>
+    <atom:link href="https://emmalinerice.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Résumé</title>
+      <link>https://emmalinerice.com/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://emmalinerice.com/resume/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Technical Writer&lt;/strong&gt;
+Raleigh, North Carolina &amp;amp; Remote | &lt;a href=&#34;mailto:riceemmaline10@gmail.com&#34;&gt;riceemmaline10@gmail.com&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;Highly-organized and detail-oriented linguist, writer, and content creator with five years of experience and a talent for simplifying complex technical and scientific information. Once escaped attack by a mountain lion unscathed.&lt;/p&gt;
+&lt;h2 id=&#34;skills&#34;&gt;Skills&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Technical Writing &amp;amp; Editing&lt;/strong&gt;: Information Architecture Design; Basic API Documentation; UX Research and Writing; Copywriting; Usability Testing; Conducting SME and Salesperson Interviews; Advanced Research; Content Design and Management&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Proposal &amp;amp; Project Management&lt;/strong&gt;: Loopio; Salesforce; Notion; MS SharePoint, Teams, and Outlook; Gmail; Zoom; Skype; Slack; Discord; Agile Methodologies; Google Sites&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Scientific Illustration</title>
+      <link>https://emmalinerice.com/illustration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://emmalinerice.com/illustration/</guid>
+      <description>illustration</description>
+    </item>
+    <item>
+      <title>Writing Samples</title>
+      <link>https://emmalinerice.com/samples/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://emmalinerice.com/samples/</guid>
+      <description>&lt;p&gt;Under Construction!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
